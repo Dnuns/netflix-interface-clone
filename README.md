@@ -1,6 +1,6 @@
 # Netflix interface clone
 
-This project is a challenge from the DIO (Digital Inovation One) bootcamp, in which we are going to recreate the Netflix interface.
+This project  was made at DIO (Digital Inovation One) bootcamp, in which we recreate the Netflix interface.
 
 ### About this project
 
