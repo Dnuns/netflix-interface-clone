@@ -28,7 +28,10 @@ header .container {
     color: var(--red);
     font-family: "Arial Black", Times;
     font-size: 40px;
-    margin-left: 5px;
+}
+
+header nav {
+    margin-right: 15px;
 }
 
 header nav a {
